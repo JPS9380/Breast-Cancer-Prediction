@@ -7,7 +7,6 @@ Breast cancer is one of the most common cancers worldwide. Early and accurate di
 - **Filename:** `breast_cancer.csv`
 - **Description:** The dataset consists of patient medical records with multiple diagnostic attributes used for classification.
 - **Target Variable:** Binary classification indicating the presence or absence of breast cancer.
-- **Preprocessing Steps:** Handling missing values, encoding categorical data, and feature scaling.
 
 ## 🛠 Installation & Requirements
 Ensure you have the required dependencies installed:
